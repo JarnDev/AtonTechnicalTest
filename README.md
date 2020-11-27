@@ -1,6 +1,6 @@
 <p align="center">
     <a href=http://www.aton.com.br/>
-        <img src="atonlogo.png" alt='Aton' width="350" title="Aton Engenharia">
+        <img src="atonlogo.PNG" alt='Aton' width="350" title="Aton Engenharia">
     </a>
 </p>
 <h1 align='center'>Aton Engenharia</h1>
